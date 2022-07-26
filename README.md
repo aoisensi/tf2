@@ -2,4 +2,4 @@
 
 ## References
 
-- `sound/ui/{hit,kill}sound.wav` by OMORI
+- `sound/ui/killsound.wav` by OMORI
